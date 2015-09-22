@@ -1,0 +1,1 @@
+console.log('see tests in test/ directory');
