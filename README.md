@@ -10,8 +10,8 @@ Area to learn and explore the [Mocha](http://mochajs.org/) JavaScript test frame
 
 Clone repo then
 
-    npm install
+    $ npm install
 
 ### Run Tests
 
-    mocha
+    $ mocha
